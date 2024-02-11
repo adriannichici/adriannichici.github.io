@@ -11,7 +11,7 @@ last_modified_date: 2023-11-02T00:00:00+0000
 
 ![headshot](/assets/me.jpg){: style="float: right; margin-right: 1em; margin-top: 0.5em; margin-left: 2em; width:230px; border: 2px solid #555;"}
 
-I am a 2nd year reserach master's student in psychology (cognitive neuroscience track) at [Leiden University](https://www.universiteitleiden.nl/en). My scientific interest is to understand the computational and neural underpinnings of the systems involved in hedonic and motivational processing. Specifically, I am interested in how these systems function and how their dysregulation leads to psychiatric disorders, using an integration of computational modelling with behavioral and neurobiological methods.
+I am a 2nd year research master's student in psychology (cognitive neuroscience track) at [Leiden University](https://www.universiteitleiden.nl/en). My scientific interest is to understand the computational and neural underpinnings of the systems involved in hedonic and motivational processing. Specifically, I am interested in how these systems function and how their dysregulation leads to psychiatric disorders, using an integration of computational modelling with behavioral and neurobiological methods.
 
 [//]: # Please see the links in the sidebar for more information.
 
